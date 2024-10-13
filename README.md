@@ -7,31 +7,28 @@
 ## Skill Set:
 
 <table><tr><td valign="top" width="25%">
-        
-### Languages
+
+### Languages  
 <a href="https://github.com/mgareja">
-<div align="center">
+<div align="center">  
        <img src="https://skillicons.dev/icons?i=selenium,python,matlab,arduino,&perline=4" /> 
 </div>
 </a>
-
-</td><td valign="top" width="25%">
-  
+ </td><td valign="top" width="25%">
+        
 ### Others
 <a href="https://github.com/mgareja">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,jenkins,jira,svn,trac,vscodeqt,&perline=4" /> 
 </div>
 </a>
-</td>
-</tr></table>
 
-<table><tl><tl valign="top" width="25%">
-
+</td><td valign="top" width="25%">
+  
 ### Applications
 <a href="https://github.com/mgareja">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,jenkins,jira,svn,trac,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=autocad,cad,solidworks,ansys,&perline=4" /> 
 </div>
 </a>
 </td>
