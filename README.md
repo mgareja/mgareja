@@ -9,18 +9,18 @@
 <table><tr><td valign="top" width="25%">
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/mgareja">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=selenium,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=selenium,python,matlab,&perline=4" /> 
 </div>
 </a>
 
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/mgareja">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,gitlab,github,jira,SVN,vscode,Trac,Jenkins,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,jenkins,jira,svn,trac,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
